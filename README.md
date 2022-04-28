@@ -16,3 +16,9 @@ If you would like to make this available on your desktop simply click the downlo
 <img src ="./assets/img/ss2.png" alt="screenshot of the install modal.">
 Once installed you can use it offline. If you look at the image below you can see what it looks like... See, no web browser address bar.
 <img src="./assets/img/ss3.png" alt="screenshot of the application running offline.">
+
+## Deployed Application
+To see the deployed application <a href="https://stormy-wave-18125.herokuapp.com/">Click Here</a>
+
+## Questions 
+If you have any questions related to this application you can find my contact details at my <a href="https://github.com/skipsterling">Github</a> 
